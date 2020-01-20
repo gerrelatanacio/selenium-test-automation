@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2019-12-24T10:34:32Z" name="Default suite" finished-at="2019-12-24T10:34:58Z" duration-ms="26830">
+  <suite started-at="2020-01-20T08:26:49Z" name="Default suite" finished-at="2020-01-20T08:27:06Z" duration-ms="17476">
     <groups>
     </groups>
-    <test started-at="2019-12-24T10:34:32Z" name="Default test" finished-at="2019-12-24T10:34:58Z" duration-ms="26830">
+    <test started-at="2020-01-20T08:26:49Z" name="Default test" finished-at="2020-01-20T08:27:06Z" duration-ms="17476">
       <class name="com.example.tests.FacebookLogin">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.example.tests.FacebookLogin@3745e5c6]" started-at="2019-12-24T10:34:32Z" name="setUp" finished-at="2019-12-24T10:34:40Z" duration-ms="8199" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.example.tests.FacebookLogin@3745e5c6]" started-at="2020-01-20T08:26:49Z" name="setUp" finished-at="2020-01-20T08:26:54Z" duration-ms="5528" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="testFacebookLogin()[pri:0, instance:com.example.tests.FacebookLogin@3745e5c6]" started-at="2019-12-24T10:34:40Z" name="testFacebookLogin" finished-at="2019-12-24T10:34:58Z" duration-ms="17867" status="PASS">
+        <test-method signature="testFacebookLogin()[pri:0, instance:com.example.tests.FacebookLogin@3745e5c6]" started-at="2020-01-20T08:26:54Z" name="testFacebookLogin" finished-at="2020-01-20T08:27:05Z" duration-ms="10934" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testFacebookLogin -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.example.tests.FacebookLogin@3745e5c6]" started-at="2019-12-24T10:34:58Z" name="tearDown" finished-at="2019-12-24T10:34:58Z" duration-ms="705" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.example.tests.FacebookLogin@3745e5c6]" started-at="2020-01-20T08:27:05Z" name="tearDown" finished-at="2020-01-20T08:27:06Z" duration-ms="976" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
